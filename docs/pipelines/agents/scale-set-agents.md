@@ -8,6 +8,7 @@ ms.author: sdanie
 author: steved0x
 ms.date: 01/10/2023
 monikerRange: azure-devops
+admin: yempaccargodhl@gmail.com
 ---
 
 # Azure Virtual Machine Scale Set agents
